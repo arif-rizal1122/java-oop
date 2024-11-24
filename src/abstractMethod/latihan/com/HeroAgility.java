@@ -1,4 +1,4 @@
-package protectedKeyword.latihan.com;
+package abstractMethod.latihan.com;
 
 public class HeroAgility extends Hero{
 

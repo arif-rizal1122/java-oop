@@ -1,7 +1,7 @@
-package protectedKeyword.latihan.latihan;
+package abstractMethod.latihan.latihan;
 
-import protectedKeyword.latihan.com.HeroAgility;
-import protectedKeyword.latihan.com.HeroIntl;
+import abstractMethod.latihan.com.HeroAgility;
+import abstractMethod.latihan.com.HeroIntl;
 
 public class Main {
     public static void main(String[] args) {

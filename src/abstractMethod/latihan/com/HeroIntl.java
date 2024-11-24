@@ -1,4 +1,4 @@
-package protectedKeyword.latihan.com;
+package abstractMethod.latihan.com;
 
 // inheritance dari abstract hero
 public class HeroIntl extends Hero {

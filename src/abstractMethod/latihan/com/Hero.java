@@ -1,4 +1,4 @@
-package protectedKeyword.latihan.com;
+package abstractMethod.latihan.com;
 
 public abstract class Hero {
     public String name;
